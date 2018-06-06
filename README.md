@@ -8,7 +8,7 @@ after 600,000 epoch. In the modified RAM, I have changed the loss function from 
 and achieved similar accuracy with much less epoch, around  90,000. In this code, you can play with code by changing the loss function 
 to triplet or saeimes which are mainly used for training the image search engines.
 
-#Reference
+# Reference
 Recurrent Models of Visual Attention
 
 http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf
